@@ -1,0 +1,16 @@
+{
+  "light": {
+    "brightness": "light",
+    "primaryColor": "#6200EE",
+    "accentColor": "#03DAC6",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000"
+  },
+  "dark": {
+    "brightness": "dark",
+    "primaryColor": "#BB86FC",
+    "accentColor": "#03DAC6",
+    "backgroundColor": "#121212",
+    "textColor": "#FFFFFF"
+  }
+}
